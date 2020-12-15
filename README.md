@@ -1,3 +1,6 @@
+# Name
+Dominik Suter
+
 # trinat-vs2-2020
 
 Vorlage für Abgabe der Aufgaben verteilte Systeme 2 (HS2020)
